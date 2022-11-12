@@ -1,6 +1,6 @@
 # Jacks-Tryhard-Macros
 
-Welcome to my Macro AutoHotKey Project for GrandTheftAutoV
+Welcome to our Macro AutoHotKey Project for GrandTheftAutoV
 by UnknownEngine & JackNoresSmith
 
 Requirements:
